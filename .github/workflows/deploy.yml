@@ -3,7 +3,7 @@ name: Build and Push to Yandex Container Registry
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-push:
