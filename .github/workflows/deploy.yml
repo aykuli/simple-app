@@ -1,5 +1,4 @@
-name: Build and Push to Yandex Container Registry
-
+name: Build and Push to Cloud.ru Artifact Registry
 on:
   push:
     branches:
